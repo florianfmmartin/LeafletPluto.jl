@@ -2,5 +2,5 @@ using LeafletPluto
 using Test
 
 @testset "LeafletPluto.jl" begin
-    # Write your tests here.
+    @test true == true
 end
