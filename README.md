@@ -8,7 +8,7 @@ A simple map widget for Pluto.jl notebooks. It creates a map using [Leaflet](htt
 
 ## Prerequisites
 
-PlutoMapPicker is a package for [Julia](https://julialang.org/). It is is designed to be used in [Pluto notebooks](https://github.com/fonsp/Pluto.jl). If you are using Pluto, you're ready to use this package!
+LeafletPluto is a package for [Julia](https://julialang.org/). It is is designed to be used in [Pluto notebooks](https://github.com/fonsp/Pluto.jl). If you are using Pluto, you're ready to use this package!
 
 ## Usage
 
