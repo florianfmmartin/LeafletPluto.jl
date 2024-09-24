@@ -1,7 +1,7 @@
 name = "LeafletPluto"
 uuid = "4fb38181-9637-4f8d-aea6-6fc02b78bbe7"
 authors = ["Florian Martin"]
-version = "1.0.0"
+version = "0.1.0"
 
 [deps]
 HypertextLiteral = "ac1192a8-f4b3-4bfe-ba22-af5b92cd3ab2"
