@@ -444,7 +444,7 @@ end
 
 # ╔═╡ 7a84c7e1-8d2d-4742-81bf-a35be540b517
 begin
-	m2 = Map(center = (46.81411097653479, -71.20089272116749), option = staticMapOption(), zoom = 12)
+	m2 = Map(center = (46.81411097653479, -71.20089272116749), option = staticMapOption(), zoom = 12, tile=stadia_tile_layers.outdoors)
 	build(m2, Marker((46.81411097653479, -71.20089272116749)))
 	leaflet(m2)
 end
