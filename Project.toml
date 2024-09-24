@@ -11,6 +11,10 @@ Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
 
 [compat]
 julia = "1.6.7"
+HypertextLiteral = "0.9"
+InteractiveUtils = "1.11"
+Markdown = "1.11"
+Pluto = "0.19"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
